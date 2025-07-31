@@ -1,0 +1,2 @@
+# TRAVEL PLANNER AI AGENT PROJECT
+ To address the challenge, we propose building an AI-powered Travel Planner Agent using IBM Cloud Lite services and IBM Granite. This smart assistant will help users plan trips by understanding their preferences, budget, travel dates, and constraints through natural language input. The core functionality will be delivered via a conversational interface powered by IBM Watson Assistant, integrated with IBM Granite to provide intelligent, real-time, and personalized travel recommendations.
